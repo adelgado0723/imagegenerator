@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  },
+  "name": "imagegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Delgado",
+  "license": "ISC",
+  "description": ""
+}
